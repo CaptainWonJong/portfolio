@@ -19,8 +19,12 @@
 
 ## 할줄 아는 것
 ~~~
-  Language JAVA, Python, C++, SQL
-  FrameWork Spring, BootStrap
+  Language    JAVA, Python, C++, SQL
+  FrameWork   Spring, BootStrap
+  OS          Windows(XP ~ ), Linux(OSX, Ubuntu)
+  DataBase    MySQL, PostgreSQL(Python)
+  Tools       개발툴 - Intellij, Pycharm, Eclipse, Spring Suite
+              DB - MySQL Workbench
 ~~~
 
 - - -
