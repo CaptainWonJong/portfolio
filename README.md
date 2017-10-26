@@ -23,7 +23,7 @@
   FrameWork   Spring, BootStrap
   OS          Windows(XP ~ ), Linux(OSX, Ubuntu), Android
   DataBase    MySQL, PostgreSQL(Python)
-  Tools       에디터 - Intellij, Pycharm, Eclipse, Spring Suite, Android Studio
+  Tools       Edit - Intellij, Pycharm, Eclipse, Spring Suite, Android Studio
               DB - MySQL Workbench
 ~~~
 
