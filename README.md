@@ -2,7 +2,7 @@
 
 
 ## 소개
-  ```#JAVA #Python #SQL```  ```#Spring #DataAnalysis``` ```#DataMining``` ```#BigData``` 
+  ```#JAVA''' '''#Python''' '''#SQL```  ```#Spring''' '''#DataAnalysis``` ```#DataMining``` ```#BigData``` 
 * 박효열
 * 한성대학교 컴퓨터공학과
 * hypark5540@naver.com
