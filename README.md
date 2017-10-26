@@ -8,7 +8,7 @@
 * 연락 : hypark5540@naver.com
 * 어학 
   * TOEIC : 800 (15.11.14) 
-  * OPIc  : AL  (17.08.30)
+  * OPIc  : AL  (17.08.30)
 
 - - -
 
