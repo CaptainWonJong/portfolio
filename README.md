@@ -3,10 +3,10 @@
 
 ## 소개
   ```#JAVA``` ```#Python``` ```#SQL```  ```#Spring``` ```#DataAnalysis``` ```#DataMining``` ```#BigData``` 
-* 박효열
-* 한성대학교 컴퓨터공학과
-* hypark5540@naver.com
-* 어학
+* 이름 : 박효열
+* 학력 : 한성대학교 컴퓨터공학과
+* 연락 : hypark5540@naver.com
+* 어학 :
  * TOEIC : 800 (15.11.14)
  * OPIc  : AL (17.08.30)
 
