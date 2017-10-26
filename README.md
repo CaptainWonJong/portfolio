@@ -17,6 +17,14 @@
 
 - - -
 
+## 할줄 아는 것
+~~~
+  Language JAVA, Python, C++, SQL
+  FrameWork Spring, BootStrap
+~~~
+
+- - -
+
 ### [음식물쓰레기 배출량을 통한 인구수 분석 및 추정](https://github.com/Korbyer/JavaCrawler)
 
 
