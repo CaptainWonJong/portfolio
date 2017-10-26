@@ -21,9 +21,9 @@
 ~~~
   Language    JAVA, Python, C++, SQL
   FrameWork   Spring, BootStrap
-  OS          Windows(XP ~ ), Linux(OSX, Ubuntu)
-  DataBase    MySQL, PostgreSQL(Python)
-  Tools       개발툴 - Intellij, Pycharm, Eclipse, Spring Suite
+  OS          Windows(XP ~ ), Linux(OSX, Ubuntu), Android
+  DataBase    MySQL, PostgreSQL(Python)
+  Tools       에디터 - Intellij, Pycharm, Eclipse, Spring Suite, Android Studio
               DB - MySQL Workbench
 ~~~
 
