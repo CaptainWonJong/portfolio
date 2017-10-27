@@ -88,7 +88,7 @@
   * __기간__ : 2017.03 ~ 2017.07(4개월)
   
 * __공헌 내용__ :
-  * __자료수집__ : 대선후보 페이스북 페이지([문재인](https://www.facebook.com/moonbyun1/), [안철수](https://www.facebook.com/ahncs111/), [심상정](https://www.facebook.com/simsangjung/),[홍준표](https://www.facebook.com/joonpyohong21))
+  * __자료수집__ : 대선후보 페이스북 페이지([문재인](https://www.facebook.com/moonbyun1/), [안철수](https://www.facebook.com/ahncs111/), [심상정](https://www.facebook.com/simsangjung/),[홍준표](https://www.facebook.com/joonpyohong21))
   * __전처리__ : 대선후보 페이지글 텍스트마이닝(KoNLP)
   * __저장__ : 게시글날짜, 페이지내용, 댓글
   * __데이터 분석__ : 게시글 단어 연관분석(Apriori), 단어빈도수, 페이지방문자수
