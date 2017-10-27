@@ -72,7 +72,7 @@
 * __환경__ :
   * __언어__ : Python
   * __도구__ : Pycharm
-  * __기타__ : scikit-learn(패키지)
+  * __기타__ : scikit-learn(패키지)
 
 - - -
 ### [음식 배달 서비스 어플리케이션 DB설계]()
@@ -98,7 +98,7 @@
 * __환경__ :
   * __언어__ : R
   * __도구__ : Rstudio
-  * __기타__ : KoNLP, ggplot2, wordCloud2, Apriori
+  * __기타__ : KoNLP, ggplot2, wordCloud2, Apriori
 - - -
 
 
