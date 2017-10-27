@@ -8,7 +8,7 @@
 * __연락__ : hypark5540@naver.com
 * __어학__ 
   * __TOEIC__ : 800 (15.11.14) 
-  * __OPIc__  : __A__dvanced __L__ow  (17.08.30)
+  * __OPIc__  : __A__ dvanced __L__ ow  (17.08.30)
 
 - - -
 
