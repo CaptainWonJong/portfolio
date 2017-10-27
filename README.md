@@ -71,7 +71,8 @@
   
 * __환경__ :
   * __언어__ : Python
-  * __도구__ : Pycharm, scikit-learn(패키지)
+  * __도구__ : Pycharm
+  * __기타__ : scikit-learn(패키지)
 
 - - -
 ### [음식 배달 서비스 어플리케이션 DB설계]()
@@ -84,7 +85,7 @@
 
 * __개요__ :
   * 2017 대선후보들의 단어사용 & 성향분석
-  * __기간__ : 2017.03 ~ 2017.07(4개월)
+  * __기간__ : 2017.03 ~ 2017.07(4개월)
   
 * __공헌 내용__ :
   * __자료수집__ : 대선후보 페이스북 페이지([로또365 API](http://www.nlotto.co.kr/common.do?method=getLottoNumber))
@@ -95,9 +96,9 @@
   
   
 * __환경__ :
-  * __언어__ : Python
-  * __도구__ : Pycharm, scikit-learn(패키지)
-  
+  * __언어__ : R
+  * __도구__ : Rstudio
+  * __기타__ : KoNLP, ggplot2, wordCloud2, Apriori
 - - -
 
 
