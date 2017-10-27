@@ -59,9 +59,9 @@
   * __기간__ : 2017.02 ~ 2017.08(6개월)
   
 * __공헌 내용__ :
-  * __자료수집__ : 로또데이터([로또365 API](http://www.nlotto.co.kr/common.do?method=getLottoNumber))
-  * __전처리 & 저장__ : 회차별 당첨번호, 진행회차, 당첨금액 (JSON)
-  * __데이터 분석__ : 연관분석(Apriori), SVM, K-NN, 당첨확률
+  * __자료수집__ : 로또데이터([로또365 API](http://www.nlotto.co.kr/common.do?method=getLottoNumber))
+  * __전처리 & 저장__ : 회차별 당첨번호, 진행회차, 당첨금액 (JSON)
+  * __데이터 분석__ : 연관분석(Apriori), SVM, K-NN, 당첨확률
   
   
 * __환경__ :
