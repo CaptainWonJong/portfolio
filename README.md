@@ -46,8 +46,8 @@
   * 전처리 & 저장 : 아파트별 소속지역 전처리, 지역코드, 아파트코드, 일일배출량
   
 * __환경__ :
-  * 언어 : JAVA, Python
-  * 도구 : Intellij, Pycharm
+  * 언어 : JAVA, Python
+  * 도구 : Intellij, Pycharm
 
 
 ### [로또 데이터분석을 통한 번호 추첨 어플리케이션](https://github.com/Korbyer/MLModule)
