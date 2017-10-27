@@ -51,6 +51,8 @@
   * __도구__ : Intellij, Pycharm
 
 
+- - -
+
 ### [로또 데이터분석을 통한 번호 추첨 어플리케이션](https://github.com/Korbyer/MLModule)
 
 
@@ -66,12 +68,33 @@
   
 * __환경__ :
   * __언어__ : Python
-  * __도구__ : Pycharm, scikit-learn(패키지)
+  * __도구__ : Pycharm, scikit-learn(패키지)
 
+- - -
 ### [음식 배달 서비스 어플리케이션 DB설계]()
 
 
+
+- - -
 ### [Rstudio를 이용한 2017 대선후보 성향 분석](https://github.com/Korbyer/RModule_2017)
+
+
+* __개요__ :
+  * 로또 데이터들을 분석, 당첨가능성이 높은 번호를 추첨해주는 분석모듈
+  * __기간__ : 2017.02 ~ 2017.08(6개월)
+  
+* __공헌 내용__ :
+  * __자료수집__ : 로또데이터([로또365 API](http://www.nlotto.co.kr/common.do?method=getLottoNumber))
+  * __전처리 & 저장__ : 회차별 당첨번호, 진행회차, 당첨금액 (JSON)
+  * __데이터 분석__ : 연관분석(Apriori), SVM, K-NN, 당첨확률
+  
+  
+* __환경__ :
+  * __언어__ : Python
+  * __도구__ : Pycharm, scikit-learn(패키지)
+  
+- - -
+
 
 ### [실시간 랜덤 채팅 어플리케이션](https://github.com/Korbyer/RandomChatting)
 
