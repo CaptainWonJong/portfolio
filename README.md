@@ -88,9 +88,10 @@
   
 * __공헌 내용__ :
   * __자료수집__ : 대선후보 페이스북 페이지([로또365 API](http://www.nlotto.co.kr/common.do?method=getLottoNumber))
-  * __전처리__ : 대선후보 페이지글(KoNLP)
+  * __전처리__ : 대선후보 페이지글 텍스트마이닝(KoNLP)
   * __저장__ : 게시글날짜, 페이지내용, 댓글
-  * __데이터 분석__ : 연관분석(Apriori), SVM, K-NN, 당첨확률
+  * __데이터 분석__ : 게시글 단어 연관분석(Apriori), 단어빈도수, 페이지방문자수
+  * __시각화__ : wordCloud2, Apriori, ggplot2
   
   
 * __환경__ :
