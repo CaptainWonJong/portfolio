@@ -34,7 +34,7 @@
 
 ## 포트폴리오
 
-### [음식물쓰레기 배출량을 통한 인구수 분석 및 추정](https://github.com/Korbyer/JavaCrawler)
+### [음식물쓰레기 배출량을 활용한 법정동별 1인식당 창업 위험지수 도출](https://github.com/Korbyer/JavaCrawler)
 
 
 * __개요__
