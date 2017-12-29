@@ -40,21 +40,21 @@
 * __개요__ :
 
   * 법정동별 '음식물쓰레기배출량' & '가구형태에 따른 인구수' 데이터를 활용하였습니다.
-  * 1인가구대상으로 전용식당을 창업 할 때, 가장 위험지수가 적은 법정동 지역을 시각화하여 보여주었습니다.
-  * 이를 활용하여, 4인 및 다가구 대상으로 활용범위를 확대 할 수 있는 잠재성도 가지고 있습니다.
-  * __기간__ : 2017.09 ~ 2017.12
+  * 1인가구대상으로 전용식당을 창업 할 때, 가장 위험지수가 적은 법정동 지역을 시각화하여 보여주었습니다.
+  * 이를 활용하여, 4인 및 다가구 대상으로 활용범위를 확대 할 수 있는 잠재성도 가지고 있습니다.
+  * __기간__ : 2017.09 ~ 2017.12
   
 * __공헌 내용__ :
 
-  * __자료수집__ : [음식물 배출량API](https://www.data.go.kr/dataset/3045421/openapi.do)),[서울시 가구형태별 인구데이터](http://data.seoul.go.kr/).[서울시 법정동별 SHP](http://data.seoul.go.kr/)
-  * __전처리__ : Xml -> CSV , 아파트별 소속법정동([도로명주소API](https://www.juso.go.kr/)), SHP -> SVG
-  * __자료저장__ : csv, Json, xlsx, SQL
-  * __시각화__ : SVG
+  * __자료수집__ : [음식물 배출량API](https://www.data.go.kr/dataset/3045421/openapi.do), [서울시 가구형태별 인구데이터](http://data.seoul.go.kr/), [서울시 법정동별 SHP](http://data.seoul.go.kr/)
+  * __전처리__ : Xml -> CSV , 아파트별 소속법정동([도로명주소API](https://www.juso.go.kr/)), SHP -> SVG
+  * __자료저장__ : csv, Json, xlsx, SQL
+  * __시각화__ : SVG
  
  
 * __환경__ :
-  * __운영체제__ : MacOS, Windows
-  * __언어__ : JAVA, Python, SQL
+  * __운영체제__ : MacOS, Windows
+  * __언어__ : JAVA, Python, SQL
   * __도구__ : Intellij, Pycharm, PostgreSQL
 
 
