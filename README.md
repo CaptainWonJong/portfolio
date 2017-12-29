@@ -53,6 +53,7 @@
  
  
 * __환경__ :
+
   * __운영체제__ : MacOS, Windows
   * __언어__ : JAVA, Python, SQL
   * __도구__ : Intellij, Pycharm, PostgreSQL
