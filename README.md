@@ -64,7 +64,7 @@
 ### [Tensorflow를 활용한 이미지 인식 & 정확도 분석모듈](https://github.com/Korbyer/TensorTraining)
 
 * __개요__ :
-  * Tensorflow 프레임워크를 활용한 이미지 인식 모듈을 만들어보았습니다.
+  * Tensorflow 프레임워크를 활용한 이미지 인식 모듈을 만들어보았습니다.
   * __기간__ : 2017.11 ~ 2017.12(1개월)
   
 * __공헌 내용__ :
