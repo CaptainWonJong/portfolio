@@ -61,6 +61,26 @@
 
 - - -
 
+### [Tensorflow를 활용한 이미지 인식 & 정확도 분석모듈](https://github.com/Korbyer/TensorTraining)
+
+* __개요__ :
+  * Tensorflow 프레임워크를 활용한 이미지 인식 모듈을 만들어보았습니다.
+  * __기간__ : 2017.11 ~ 2017.12(1개월)
+  
+* __공헌 내용__ :
+  * __자료수집__ : [MNIST](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/mnist/)
+  * __레이어구성__ : 입력, convolutional, 풀링(Pooling), RELu
+  * __정확도분석__ : 
+  
+  
+* __환경__ :
+  * __언어__ : Python
+  * __도구__ : Pycharm
+  * __기타__ : tensorflow(프레임워크), matplotlib(패키지)
+
+
+- - -
+
 ### [로또 데이터분석을 통한 번호 추첨 어플리케이션](https://github.com/Korbyer/MLModule)
 
 
