@@ -68,9 +68,9 @@
   * __기간__ : 2017.11 ~ 2017.12(1개월)
   
 * __공헌 내용__ :
-  * __자료수집__ : [MNIST](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/mnist/)
+  * __자료수집__ : [MNIST](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/mnist/)
   * __레이어구성__ : 입력, convolutional, 풀링(Pooling), RELu
-  * __정확도분석__ : 입력정보를 기준삼아 분석결과정보가 얼마나 정확한지 확률 
+  * __정확도분석__ : 입력정보를 기준삼아 분석결과정보가 얼마나 정확한지 확률 
   
   
 * __환경__ :
