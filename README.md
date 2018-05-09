@@ -1,7 +1,7 @@
 # Korbyer 기술서
 
 
-## 소개
+## 소개 (Introduction)
   ```#JAVA``` ```#Python``` ```#SQL```  ```#Spring``` ```#DataAnalysis``` ```#DataMining``` ```#BigData``` 
 * __이름__ : 박효열
 * __학력__ : 한성대학교 컴퓨터공학과
@@ -11,7 +11,7 @@
 
 - - -
 
-## 학력
+## 학력 (Education)
 ~~~
   상계고등학교 졸업                                                                           (2011.02) 
   한성대학교  졸업                                                                            (2018.02)
@@ -21,7 +21,7 @@
 
 - - -
 
-## 할줄 아는 것
+## 기술 스택 (Skill Stack)
 ~~~
   Language    JAVA, Python, C++, SQL
   FrameWork   Spring, BootStrap
